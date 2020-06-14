@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 abcde
+=======
+12345
+I push to github
+>>>>>>> 3934080b68a3487c6b76daf8f59bfc9d181398bb
